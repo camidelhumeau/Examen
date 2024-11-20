@@ -1,0 +1,28 @@
+/***
+Autor: Ana Camila Nambo Delhumeau
+Fecha: 20/11/2024
+Lenguaje: CSS
+***/
+.Cuerpo00 {
+    background-color: rgb(54, 9, 97); /*** sirve para indicar el cambio en el color de fondo o letra (fondo)s ***/
+    color: rgb(255, 0, 0);} /*** sirve para indicar el cambio en el color de fondo o letra (letra) ***/
+
+.Cuerpo01 {
+    background-color: rgb(255, 0, 128);
+    color: rgb(22, 10, 194);}
+
+.Cuerpo02 {
+    background-color: rgb(255, 255, 0);          
+    color: rgb(0, 0, 0);}
+
+.Cuerpo03 {
+    background-color: rgb(51, 128, 0);
+    color: rgb(235, 2, 2);}
+
+.Cuerpo04 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(42, 165, 79);}
+
+/*** Examen Diseño web
+Diseño de la comunicación gráfica
+Profesor: Rogelio Montelongo Sosa ***/
